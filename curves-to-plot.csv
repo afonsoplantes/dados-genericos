@@ -1,4 +1,4 @@
-/ed_neo1 (Design_Point=1) X,/ed_neo1 (Design_Point=1) Y,GanhoEdNeo (Design_Point=1) X,GanhoEdNeo (Design_Point=1) Y,/I37/I0/b1 (Design_Point=1) X,/I37/I0/b1 (Design_Point=1) Y,GanhoVprod (Design_Point=1) X,GanhoVprod (Design_Point=1) Y
+ed_neo1_X,ed_neo1_Y, GanhoEdNeo_X,GanhoEdNeo_Y, Vprod_X,Vprod_Y,GanhoVprod_X,GanhoVprod_Y
 -0.5,1.701313554598574,-0.499,-0.3164754621201024,-0.5,1.224443702611746,-0.499,0.2498903402929906
 -0.499,1.700997079136454,-0.498,-0.0277323745050406,-0.499,1.224693592952039,-0.498,0.2498904352563611
 -0.498,1.700969346761949,-0.497,-0.02786642771313017,-0.498,1.224943483387295,-0.497,0.2498905234429303
