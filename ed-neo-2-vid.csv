@@ -1,4 +1,4 @@
-/ed_neo1 (Design_Point=1) X,/ed_neo1 (Design_Point=1) Y,/Vprod (Design_Point=1) X,/Vprod (Design_Point=1) Y
+ed_neo1_X,ed_neo1_Y,Vprod_X,Vprod_Y
 -1.8,1.736910900096069,-1.8,0.9129716073063229
 -1.79964,1.736885384832354,-1.79964,0.9130613024089757
 -1.79928,1.736884964972277,-1.79928,0.9131509976315431
