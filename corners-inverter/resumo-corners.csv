@@ -1,0 +1,7 @@
+Corner,cor_std_mos.scs,cr018gpii_v1d0.scs,cr018gpii_v1d0.scs,cr018gpii_v1d0.scs,Pass/Fail,Voltage_thres,gm_0,gm_1,ID_max,ID_Interpol,Gain_inter,Rout_0,Rout_1,Voh,Vol,Vih,Vil
+nom,<omitted>,tt,stat_noise,stat,,1.276,80.8e-6,10.07e-6,4.772e-6,4.764e-6,-89.07,1.058e6,18.24e6,1.754,39.11e-3,1.39,1.25
+FF,ff,stat_noise,stat,nom,,1.311,100.7e-6,11.38e-6,5.886e-6,5.875e-6,-76.78,732e3,14.68e6,1.753,38.72e-3,1.429,1.284
+FS,fs,stat_noise,stat,nom,,1.238,79.12e-6,10.53e-6,4.89e-6,4.884e-6,-96.18,1.171e6,17.22e6,1.753,39.81e-3,1.353,1.213
+SF,sf,stat_noise,stat,nom,,1.313,82.03e-6,9.57e-6,4.625e-6,4.615e-6,-83.19,971.8e3,19.41e6,1.756,38.48e-3,1.427,1.288
+SS,ss,stat_noise,stat,nom,,1.241,63.93e-6,8.782e-6,3.777e-6,3.773e-6,-109,1.642e6,23.07e6,1.756,39.15e-3,1.349,1.217
+
