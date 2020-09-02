@@ -1,4 +1,4 @@
-/in (temperature=27) X,/in (temperature=27) Y,/out (temperature=27) X,/out (temperature=27) Y,/out (temperature=-50) X,/out (temperature=-50) Y,/out (temperature=50) X,/out (temperature=50) Y,/out (temperature=0) X,/out (temperature=0) Y
+in_X,in_Y,out_tempP27_X,out_tempP27_Y,out_tempM50_X,out_tempM50_Y,out_tempP50_X,out_tempP50_Y,out_tempP0_X,out_tempP0_Y
 0,1.8,0,6.429745273996133e-07,0,1.776022923676367e-07,0,1.910057461025279e-06,0,2.903440769183956e-07
 0.005,1.782,0.005,8.964806749434859e-07,0.005,1.780937916547143e-07,0.005,2.928078567424864e-06,0.005,3.277364421811315e-07
 0.01,1.764,0.01,1.327998794253326e-06,0.01,1.799965490991814e-07,0.01,4.593969375234932e-06,0.01,3.956339751059859e-07
